@@ -1,7 +1,33 @@
-## Hi there 👋
+<!-- PROFILE HEADER -->
+<h1 align="center">Hey there, I'm SayliDev 👋</h1>
+<h3 align="center">Front-End Devlopper</h3>
+
+<br/>
+
+<!-- ACHIEVEMENTS BADGE -->
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SayliDev&theme=dracula&margin-w=15&no-frame=true" />
+</p>
+
+<!-- STATS + LANGUAGES -->
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayliDev&layout=compact&theme=radical" alt="langs" width="48%" />
+</p>-->
+
+<!-- STREAK -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SayliDev&theme=radical&hide_border=false" alt="streak"/>
+</p>
+
+<!-- TECHNOLOGIES -->
+### 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SayliDev/SayliDev/output/github-contribution-grid-snake.svg" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,vite,tailwind,html,css,scss,firebase,nodejs,git,github,figma" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SayliDev/SayliDev/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <!--
