@@ -15,7 +15,7 @@ jobs:
           github_user_name: SayliDev
           outputs: |
             dist/github-contribution-grid-snake.svg
-          theme: github-dark  # ou utilise colors à la place si tu préfères
+          colors: '{"background":"#0d1117","frame":"#1f2937","cell":"#151b23","snake":"#58a6ff"}'
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
