@@ -14,9 +14,8 @@ jobs:
         with:
           github_user_name: SayliDev
           outputs: |
-            dist/github-contribution-grid-snake.svg
-          snake_color: '#39ff14'             
-          background: '#151b23'              
+            dist/github-snake.svg?palette=github
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
