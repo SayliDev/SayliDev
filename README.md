@@ -6,13 +6,13 @@
 
 <!-- ACHIEVEMENTS BADGE -->
  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SayliDev&theme=dracula&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy-ten-indol.vercel.app/?username=SayliDev&theme=dracula&row=1&column=6&rank=-C,-B,-%3F&no-bg=true" />
 </p>
 
 <!-- STATS + LANGUAGES -->
-<!-- <p align="center">
+<!--  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SayliDev&layout=compact&theme=radical" alt="langs" width="48%" />
-</p>-->
+</p>
 
 <!-- STREAK -->
 <p align="center">
@@ -23,7 +23,7 @@
 ### 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,redux,vite,tailwind,html,css,scss,firebase,nodejs,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=react,ts,threejs,redux,vite,nuxtjs,less,nestjs,emotion,firebase,nodejs,git,prisma,figma" />
 </p>
 
 <p align="center">
